@@ -2,7 +2,7 @@
 ---
 --- Quickly switch between applications using hotkeys
 ---
---- Download: [https://github.com/Nauxscript/app-switcher-spoon/tree/main/AppSwitcher.spoon](https://github.com/Nauxscript/app-switcher-spoon/tree/main/AppSwitcher.spoon)
+--- Download: [https://github.com/Nauxscript/app-switcher-spoon/tree/main/AppSwitcher.spoon.zip](https://github.com/Nauxscript/app-switcher-spoon/tree/main/AppSwitcher.spoon.zip)
 ---
 --- Quickly launch and switch between different apps using hotkeys, 
 --- reducing the need for mouse movements or complex keyboard operations, 

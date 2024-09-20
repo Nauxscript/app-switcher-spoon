@@ -8,7 +8,7 @@ AppSwitcher is a Hammerspoon Spoon that enables quick launching and switching be
 
 ## Download
 
-[Download AppSwitcher.spoon](https://github.com/Nauxscript/app-switcher-spoon/tree/main/AppSwitcher.spoon)
+[Download AppSwitcher.spoon](https://github.com/Nauxscript/app-switcher-spoon/tree/main/AppSwitcher.spoon.zip)
 
 ## Installation
 
