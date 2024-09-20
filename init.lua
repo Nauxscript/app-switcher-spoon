@@ -11,14 +11,14 @@
 --- Example `~/.hammerspoon/init.lua` configuration:
 ---
 --- ```
--- hs.loadSpoon("AppSwitcher")
---     :bindHotkeys({
---         {name = "Claude", key = "c", },
---         {name = "WeChat", key = "e", bundleId = "com.tencent.xinWeChat"},
---         {name = "Google Chrome", key = "g"},
---         {name = "Obsidian", key = "o"},
---         {name = "Warp", key = "w"},
---     })
+--- hs.loadSpoon("AppSwitcher")
+---     :bindHotkeys({
+---         {name = "Claude", key = "c", },
+---         {name = "WeChat", key = "e", bundleId = "com.tencent.xinWeChat"},
+---         {name = "Google Chrome", key = "g"},
+---         {name = "Obsidian", key = "o"},
+---         {name = "Warp", key = "w"},
+---     })
 --- ```
 ---
 --- In this example, 
