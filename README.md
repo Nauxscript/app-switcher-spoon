@@ -56,6 +56,14 @@ You should provide the bundleId for an app when:
 * The app continues running another process in the background when its window is closed by `command + w` (e.g., WeChat)
 * The app has different names in different languages (e.g., WeChat in Chinese is "微信"). Using the name to match in these cases may not work properly.
 
+## How to Get BundleId
+
+There are simple ways to get the bundle ID:
+
+1. Using the command line: Run `osascript -e 'id of app "Application Name"'` to output the corresponding bundle ID. For example: `osascript -e 'id of app "Safari"'`
+2. Or you can right-click the application in Applications folder, select "Show Package Contents", then find the `CFBundleIdentifier` in `Contents/info.plist` file - this is the bundle ID (Note: this method requires you to have software installed that can open plist files to view their contents).
+
+
 ## Contributing
 
 Contributions to AppSwitcher are welcome! Please feel free to submit a Pull Request.
